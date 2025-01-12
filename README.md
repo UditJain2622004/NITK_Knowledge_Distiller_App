@@ -18,8 +18,8 @@ Develop an application that allows users to load their study notes—whether tex
 
 ### Solution Demo Video Link
 
-[Demo Video](https://youtu.be/1pyXAscuhZQ)
-[![Alt text](https://img.youtube.com/vi/1pyXAscuhZQ/0.jpg)](https://www.youtube.com/watch?v=1pyXAscuhZQ)
+[Demo Video](https://www.youtube.com/watch?v=sSSDNEmsVww)
+
 
 ## Tech Stack
 
